@@ -2,6 +2,22 @@
 
 **File Transcriber** is a **user-friendly desktop application** built with Python and Tkinter that helps you quickly extract and combine the contents of multiple text-based files from a folder (or selected subfolders) into one or more well-formatted output text files.
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 Perfect for:
 - Preparing codebases for AI analysis (e.g., feeding to ChatGPT, Claude, Gemini, etc.)
 - Creating documentation snapshots
@@ -124,30 +140,26 @@ import utils.helpers
 --- End of: src/main.py ---
 ```
 
-## Contributing
+## Contribution Policy
 
-Contributions are welcome!
+Feedback, bug reports, and suggestions are welcome.
 
-1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
+You may submit:
 
-## Planned Features / Ideas
-- Drag & drop folder support
-- File preview pane
-- Remember last used folder/output
-- Export to Markdown code blocks
-- Search/filter in tree view
-- Progress bar during transcription
-- Command-line interface (CLI) version
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
 
 ---
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
-Leon Priest</br>
-Created: ~2023–2024</br>
-Updated: 2025
+## License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
