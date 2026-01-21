@@ -18,6 +18,10 @@ Use of this software constitutes acceptance of the terms defined in **LICENSE.tx
 
 ---
 
+## Description
+
+The File Transcriber provides a streamlined workflow for developers who need to share or analyze large amounts of source code without sending dozens of individual files. By selecting a root directory, the app allows you to surgically pick the files you need using a visual tree interface combined with powerful wildcard filtering. It doesn't just copy-paste; it intelligently detects file encodings, generates a structural "File Map" for context, and can even split the output into multiple parts if a specific line limit is reached to ensure the resulting files remain manageable.
+
 Perfect for:
 - Preparing codebases for AI analysis (e.g., feeding to ChatGPT, Claude, Gemini, etc.)
 - Creating documentation snapshots
